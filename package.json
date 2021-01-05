@@ -1,4 +1,9 @@
 {
-    "name": "do-n8n",
-    "scripts": {}
+  "name": "do-n8n",
+  "scripts": {
+    "start": "n8n"
+  },
+  "dependencies": {
+    "n8n": "^0.100.0"
+  }
 }
